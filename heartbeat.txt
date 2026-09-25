@@ -1,1 +1,1 @@
-vps-alive 2026-09-25T13:35:03Z | down: none
+vps-alive 2026-09-25T13:36:00Z | down: EncoreProBot,EncorePublicBot
