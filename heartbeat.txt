@@ -1,1 +1,1 @@
-vps-alive 2026-11-20T17:51:38Z | down: none
+vps-alive 2026-11-20T17:59:13Z | down: AMLCheck
